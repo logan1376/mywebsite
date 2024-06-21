@@ -1,3 +1,3 @@
 # mywebsite
-Code for my website
-VERY OUT OF DATE
+Code for my website.
+VERY OUT OF DATE.
